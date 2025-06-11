@@ -1,0 +1,21 @@
+project: 3D Solar System Simulation
+description: >
+A 3D solar system simulation built using Three.js and vanilla JavaScript.
+Features include orbiting planets, individual speed controls, background stars,
+and interactive camera.
+
+requirements:
+
+- Modern web browser (Chrome, Firefox, Edge)
+- Optional: Live Server for smooth local testing
+
+run_steps:
+
+- Step 1: Download or clone the project folder
+- Step 2: Open the folder in a code editor (e.g., VS Code)
+- Step 3: Open 'index.html' directly in a web browser
+- OR
+- Step 3 (recommended): Use Live Server to run 'index.html' locally
+  instructions:
+  - Install Live Server extension in VS Code
+  - Right-click
